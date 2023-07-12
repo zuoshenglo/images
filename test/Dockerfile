@@ -1,1 +1,1 @@
-FROM docker.io/datawire/ambassador-telepresence-agent:1.13.7
+FROM registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.9.2
