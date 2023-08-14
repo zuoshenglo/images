@@ -1,1 +1,1 @@
-FROM docker.io/grafana/grafana:10.0.1
+FROM docker.io/bitnami/thanos:0.31.0-scratch-r12
