@@ -1,1 +1,1 @@
-FROM docker.io/bitnami/thanos:0.31.0-scratch-r12
+FROM docker.io/ambassador/ambassador-agent:1.0.14
