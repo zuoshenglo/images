@@ -1,1 +1,1 @@
-FROM docker.io/ambassador/ambassador-agent:1.0.14
+FROM docker.io/datawire/ambassador-telepresence-manager:2.14.2
