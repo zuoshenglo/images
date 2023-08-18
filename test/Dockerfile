@@ -1,1 +1,1 @@
-FROM docker.io/datawire/ambassador-telepresence-manager:2.14.2
+FROM docker.io/curlimages/curl:8.1.1
