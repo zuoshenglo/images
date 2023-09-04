@@ -1,1 +1,1 @@
-FROM docker.io/curlimages/curl:8.1.1
+FROM docker.io/flannel/flannel-cni-plugin:v1.2.0
