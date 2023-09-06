@@ -1,1 +1,1 @@
-FROM docker.io/flannel/flannel:v0.22.2
+FROM registry.k8s.io/sig-storage/csi-node-driver-registrar:v2.8.0
