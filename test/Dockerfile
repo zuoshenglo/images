@@ -1,1 +1,1 @@
-FROM registry.k8s.io/sig-storage/csi-resizer:canary
+FROM gcr.io/k8s-staging-sig-storage/csi-resizer:canary
